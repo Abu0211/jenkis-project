@@ -1,9 +1,0 @@
-#!/bin/bash
-
-#define the function
-greet_user(){
-    echo "hello, $1! you are in $2."
-}
-
-#call the function with arguments
-greet_user "alice" "chennai"
